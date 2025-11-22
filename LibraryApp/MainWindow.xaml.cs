@@ -9,7 +9,7 @@ namespace LibrarySimple
     {
         private DataTable booksTable = new DataTable();
 
-        public static string ConnectionStringStatic => "Server=localhost;Database=library_simple;Uid=root;Pwd=topsecretpassword1488A!;SslMode=Preferred;";
+        public static string ConnectionStringStatic => "Server=localhost;Database=library_simple;Uid=root;Pwd=Enter_Password_Here!;SslMode=Preferred;";
 
         public MainWindow()
         {
